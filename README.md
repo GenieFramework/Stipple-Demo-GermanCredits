@@ -36,4 +36,5 @@ The application will start on port 9000. Open your web browser and navigate to <
 
 Use the age range to visualize the data.
 
-<img src="https://www.dropbox.com/s/gsaqbuxvbqfk049/Screenshot_German_Credits.png?dl=1" width=800>
+<img src="https://genieframework.com/githubimg/Screenshot_German_Credits.png" width=800>
+
