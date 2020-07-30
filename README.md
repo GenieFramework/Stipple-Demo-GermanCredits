@@ -32,5 +32,8 @@ julia> using Genie
 julia> Genie.loadapp()
 ```
 
-The application will start on port 9000. Open your web browser and navigate to <http://localhost:9000>
+The application will start on port 9000. Open your web browser and navigate to <http://localhost:9000>.
+
 Use the age range to visualize the data.
+
+<img src="https://www.dropbox.com/s/gsaqbuxvbqfk049/Screenshot_German_Credits.png?dl=1" width=800>
