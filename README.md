@@ -1,3 +1,5 @@
+# NOTE: This repository is deprecated. For new Stipple examples check [this Repository](https://github.com/GenieFramework/StippleDemos)
+
 # German Credits visualization dashboard
 
 Demo data dashboard built with
